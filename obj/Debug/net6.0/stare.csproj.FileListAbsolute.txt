@@ -1,0 +1,15 @@
+C:\Users\DEHGHAN\Desktop\c#\stare\bin\Debug\net6.0\stare.exe
+C:\Users\DEHGHAN\Desktop\c#\stare\bin\Debug\net6.0\stare.deps.json
+C:\Users\DEHGHAN\Desktop\c#\stare\bin\Debug\net6.0\stare.runtimeconfig.json
+C:\Users\DEHGHAN\Desktop\c#\stare\bin\Debug\net6.0\stare.dll
+C:\Users\DEHGHAN\Desktop\c#\stare\bin\Debug\net6.0\stare.pdb
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.csproj.AssemblyReference.cache
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.AssemblyInfoInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.AssemblyInfo.cs
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.csproj.CoreCompileInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.dll
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\refint\stare.dll
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.pdb
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\stare.genruntimeconfig.cache
+C:\Users\DEHGHAN\Desktop\c#\stare\obj\Debug\net6.0\ref\stare.dll
